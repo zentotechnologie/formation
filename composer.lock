@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "5801d19f1b98d8bbaaf4b45023c9a6f9",
+    "content-hash": "6fa619386d5f9d01c19de72435e97ec4",
     "packages": [
         {
             "name": "braintree/braintree_php",
@@ -557,6 +557,46 @@
                 }
             ],
             "description": "dotmailer integration for magento 2"
+        },
+        {
+            "name": "imaginaerum/magento2-language-fr-fr",
+            "version": "100.6.23",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Imaginaerum/magento2-language-fr-fr.git",
+                "reference": "d563a1eb6f1a316c8180f3bc38f42180260acd39"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Imaginaerum/magento2-language-fr-fr/zipball/d563a1eb6f1a316c8180f3bc38f42180260acd39",
+                "reference": "d563a1eb6f1a316c8180f3bc38f42180260acd39",
+                "shasum": ""
+            },
+            "type": "magento2-language",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Magento2 French Language Pack (fr_FR)",
+            "homepage": "http://imaginaerum.github.io/magento2-language-fr-fr",
+            "keywords": [
+                "fr",
+                "fr_FR",
+                "french",
+                "i18n",
+                "language pack",
+                "magento",
+                "magento 2",
+                "magento2",
+                "module",
+                "plugin"
+            ],
+            "time": "2016-10-04T05:17:40+00:00"
         },
         {
             "name": "justinrainbow/json-schema",
@@ -6813,12 +6853,12 @@
             "version": "V1.2.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jjriv/emogrifier.git",
+                "url": "https://github.com/MyIntervals/emogrifier.git",
                 "reference": "a1db453bb504597d821efcc04b21c79a6021e00c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jjriv/emogrifier/zipball/a1db453bb504597d821efcc04b21c79a6021e00c",
+                "url": "https://api.github.com/repos/MyIntervals/emogrifier/zipball/a1db453bb504597d821efcc04b21c79a6021e00c",
                 "reference": "a1db453bb504597d821efcc04b21c79a6021e00c",
                 "shasum": ""
             },
